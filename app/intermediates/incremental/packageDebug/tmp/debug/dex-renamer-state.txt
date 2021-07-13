@@ -1,0 +1,4 @@
+#Fri Jun 04 20:38:42 IST 2021
+base.0=F\:\\programs\\fb_clone\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
